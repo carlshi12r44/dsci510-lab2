@@ -15,4 +15,4 @@ jupyter notebook
 * run the script
 
 ## Contact me @ yifengsh@usc.edu for questions
-## Thanks and have a great day!
+## Thank you all and have a great day!
