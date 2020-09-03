@@ -1,6 +1,6 @@
 # dsci510-lab2
 ## Hello All, this is the lab2 submission completed by Yifeng Shi in Jupyter Notebook
-## Prerequisite:
+## Prerequisites:
 * Python 3
 * Jupyter Notebook
 
